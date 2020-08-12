@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I'm a Android Developer, focus on ReactNative,Flutter.
-- 🌱 I’m currently learning python, spring, font end
+- 🌱 I’m currently learning python, spring, fontend
 - 🤔 I’m looking for improve own abilities
 - 💬 Ask me about android development
 - 📫 How to reach me: wayne214(wechat), [csdn](https://blog.csdn.net/wayne214)
