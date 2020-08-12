@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I'm a Android Developer, focus on ReactNative,Flutter.
+- 🌱 I’m currently learning python, spring, font end
+- 🤔 I’m looking for improve own abilities
+- 💬 Ask me about android development
+- 📫 How to reach me: wayne214(wechat), [csdn](https://blog.csdn.net/wayne214)
